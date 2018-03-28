@@ -11,3 +11,4 @@ Aim of this example is to monitor water levels in large manmade or natural water
 
 The water level in this example is estimated by taking the ratio of reservoirs’ current water surface area and water surface area when reservoir is full.
 
+Read more about it at [this blog](https://medium.com/sentinel-hub/global-earth-observation-service-from-your-laptop-23157680cf5e).
