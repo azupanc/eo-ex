@@ -13,4 +13,4 @@ The water level in this example is estimated by taking the ratio of reservoirsâ€
 
 Read more about it at [this blog](https://medium.com/sentinel-hub/global-earth-observation-service-from-your-laptop-23157680cf5e).
 
-**NOTE: This example is obsolete and is no longer mantained. See [sentinel-hub/water-observatory-backend](https://github.com/sentinel-hub/water-observatory-backend) instead for a working and up-to-date example.**
+**NOTE: This example is obsolete and is no longer maintained. See [sentinel-hub/water-observatory-backend](https://github.com/sentinel-hub/water-observatory-backend) instead for a working and up-to-date example.**
